@@ -1,0 +1,7 @@
+Second line: #rows, #columns. Other lines: F-Floor, S-Start, E-Exit, W-Wall, $-Gold, L-Lava, R-Red Lock Door, r-Red key, G-Green Lock Door, g-Green key, B-Blue Lock Door, b-Blue key
+5 5
+E L S F F
+F L F F F
+F L F F F
+R L L F F
+R F F r F
